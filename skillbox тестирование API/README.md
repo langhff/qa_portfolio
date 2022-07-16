@@ -11,6 +11,8 @@
 Удаление клиента.
 Оформите найденные баги в виде баг-репорта.
 
-Документация к сервису представлена в файле [Документация к сервису.pdf](/skillbox%20тестирование%20API/Документация%20к%20сервису.pdf) (docs.googl https://docs.google.com/document/d/1nvLIq2fcYiDOXtpWp1wm7LGCUFz__VKzlWtP7d_iikg/edit)
+Документация к сервису представлена в файле [Документация к сервису.pdf](/skillbox%20тестирование%20API/Документация%20к%20сервису.pdf) 
+(https://docs.google.com/document/d/1nvLIq2fcYiDOXtpWp1wm7LGCUFz__VKzlWtP7d_iikg/edit)
 
-Баг-репорты представлены в файле [Баг-репорты.xlsx](/skillbox%20тестирование%20API/Документация%20к%20сервису.pdf) (docs.googl https://docs.google.com/spreadsheets/d/13lUuUgi4e5qAUU5e1tNes-_TspnSYFDTL5fDyurjlEc/edit?usp=sharing)
+Баг-репорты представлены в файле [Баг-репорты.xlsx](/skillbox%20тестирование%20API/Документация%20к%20сервису.pdf) 
+(https://docs.google.com/spreadsheets/d/13lUuUgi4e5qAUU5e1tNes-_TspnSYFDTL5fDyurjlEc/edit?usp=sharing)
