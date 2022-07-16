@@ -13,5 +13,5 @@
 ***Удаление клиента***  
 Оформите найденные баги в виде баг-репорта  
 
-Баг-репорты представлены в файле [Баг-репорты.xlsx](/skillbox%20тестирование%20API/Документация%20к%20сервису.pdf)  
+Баг-репорты представлены в файле [Баг-репорты.xlsx](/skillbox%20тестирование%20API/Баг-репорты.xlsx)  
 (https://docs.google.com/spreadsheets/d/13lUuUgi4e5qAUU5e1tNes-_TspnSYFDTL5fDyurjlEc/edit?usp=sharing)
